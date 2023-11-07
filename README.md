@@ -4,18 +4,21 @@
 
 ### Descrição do Projeto: 
 A aplicação é um e-commerce que permite aos usuários comprar produtos eletrônicos. Ela incluirá recursos como registro de usuário, login, navegação de produtos, adição ao carrinho, checkout e rastreamento de pedidos.
-Tecnologias Utilizadas
+
+
+# Tecnologias Utilizadas
 
 ### Backend:
 
-Linguagem de programação: Java
-Framework: Spring Boot
-Banco de dados: H2 (para testes), MySQL (em produção)
-Maven para gerenciamento de dependências
+1. Linguagem de programação: Java
+2. Framework: Spring Boot
+3. Banco de dados: H2 (para testes), MySQL (em produção)
+4. Maven para gerenciamento de dependências
 
 ### Frontend:
 
-Angular
+1. Angular
+2. Angular Material
 
 ### Arquitetura:
 A aplicação segue uma arquitetura de três camadas com frontend, backend e banco de dados. O frontend se comunica com o backend por meio de uma API REST.
