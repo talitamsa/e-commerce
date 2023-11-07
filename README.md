@@ -1,19 +1,26 @@
-Documentação da Aplicação de E-commerce
-Visão Geral
-Descrição do Projeto: A aplicação é um e-commerce que permite aos usuários comprar produtos eletrônicos. Ela incluirá recursos como registro de usuário, login, navegação de produtos, adição ao carrinho, checkout e rastreamento de pedidos.
+# Documentação da Aplicação de E-commerce
+
+## Visão Geral
+
+### Descrição do Projeto: 
+A aplicação é um e-commerce que permite aos usuários comprar produtos eletrônicos. Ela incluirá recursos como registro de usuário, login, navegação de produtos, adição ao carrinho, checkout e rastreamento de pedidos.
 Tecnologias Utilizadas
-Backend:
+
+### Backend:
 
 Linguagem de programação: Java
 Framework: Spring Boot
 Banco de dados: H2 (para testes), MySQL (em produção)
 Maven para gerenciamento de dependências
-Frontend:
+
+### Frontend:
 
 Angular
-Arquitetura
+
+### Arquitetura:
 A aplicação segue uma arquitetura de três camadas com frontend, backend e banco de dados. O frontend se comunica com o backend por meio de uma API REST.
-Entidades do Banco de Dados
+
+### Entidades do Banco de Dados:
 
 Usuário:
 
